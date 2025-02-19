@@ -1,0 +1,30 @@
+/* Universal Selector */
+
+*{
+    background-color: #faedcd;
+}
+
+h1{
+    border: 2px  solid #006241;
+    padding: 20px;
+    text-align: center;
+}
+h2{
+    border: 2px  solid #006241;
+    padding: 20px;  
+    text-align: center;
+}
+.robo{
+    font-family: 'Roboto', sans-serif;
+}
+    
+/* h1,h2{ */
+    /* color: #006241;
+  }
+  p{
+    color: blue;}*/ 
+.navbar, li, a{
+    list-style: none;
+    text-decoration: none;
+    padding: 10px 20px;
+}   
